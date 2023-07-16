@@ -24,18 +24,16 @@ Spend at least 30 minutes daily to finish writing down one problem.
 See the logs. If the day is in future, it means my expected plan to add.
 ## 2023
 ### July
-#### 16
-- [plan] marketplacecompliance: DMA.md
 #### 17
-- [plan] systemdesign: a system design topic, copy from LinkedIn.
+- marketplacecompliance: DMA.md
 #### 18
-- [plan] technology: a technology. AWS CloudSearch - how does it work?
-#### 19
-- [plan] technology: B+ tree vs LSM-tree: https://tikv.org/deep-dive/key-value-engine/b-tree-vs-lsm/
-#### 20
-- [plan] leetcode: a leetcode problem
-#### 21
 - [plan] systemdesign: a system design topic, copy from LinkedIn.
+#### 19
+- [plan] technology: a technology. AWS CloudSearch - how does it work?
+#### 20
+- [plan] technology: B+ tree vs LSM-tree: https://tikv.org/deep-dive/key-value-engine/b-tree-vs-lsm/
+#### 21
+- [plan] leetcode: a leetcode problem
 #### 22
 - Saturday break.
 #### 23
