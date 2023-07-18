@@ -28,16 +28,16 @@ See the logs. If the day is in future, it means my expected plan to add.
 - marketplacecompliance: DMA.md
 #### 18
 - systemdesign: CQSR.md
-#### 19
+### 19
+- technology: aws/solution/QnABot.md
+#### 20
 - [plan] systemdesign: Generic system design topic. 
     - [Azure architecture](https://learn.microsoft.com/en-us/azure/architecture/)
     - [Azure architecture patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
     - [martinfowler - domain driven design](https://martinfowler.com/tags/domain%20driven%20design.html)
 - [plan] technology: a technology. AWS CloudSearch - how does it work?
-#### 20
-- [plan] technology: B+ tree vs LSM-tree: https://tikv.org/deep-dive/key-value-engine/b-tree-vs-lsm/
 #### 21
-- [plan] leetcode: a leetcode problem
+- [plan] technology: B+ tree vs LSM-tree: https://tikv.org/deep-dive/key-value-engine/b-tree-vs-lsm/
 #### 22
 - Saturday break.
 #### 23
