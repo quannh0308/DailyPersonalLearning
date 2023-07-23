@@ -30,17 +30,15 @@ See the logs. If the day is in future, it means my expected plan to add.
 - systemdesign: CQSR.md
 ### 19
 - technology: aws/solution/QnABot.md
-#### 20
+#### 23
+- systemdesign: MLOps.md.
+#### 24
+- TK
+#### Wanted System design topic
 - [plan] systemdesign: Generic system design topic. 
     - [Azure architecture](https://learn.microsoft.com/en-us/azure/architecture/)
     - [Azure architecture patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
     - [martinfowler - domain driven design](https://martinfowler.com/tags/domain%20driven%20design.html)
 - [plan] technology: a technology. AWS CloudSearch - how does it work?
-#### 21
+#### Wanted technology topic
 - [plan] technology: B+ tree vs LSM-tree: https://tikv.org/deep-dive/key-value-engine/b-tree-vs-lsm/
-#### 22
-- Saturday break.
-#### 23
-- Saturday break.
-#### 24
-- TK
